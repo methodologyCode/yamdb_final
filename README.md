@@ -1,6 +1,6 @@
 # yamdb_final
 yamdb_final
-https://github.com/methodologyCode/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg
+https://github.com/methodologyCode/yamdb_final/actions/workflows/yamdb_workflow/badge.svg
 
 # Проект YaMDb
 Проект YaMDb собирает отзывы пользователей на произведения
