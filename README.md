@@ -1,5 +1,4 @@
-# yamdb_final
-yamdb_final
+# CI/CD API сервиса YaMDb
 ![ci/cd_api_yamdb workflow](https://github.com/methodologyCode/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
 
 # Проект YaMDb
