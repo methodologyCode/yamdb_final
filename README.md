@@ -53,3 +53,10 @@ DB_PORT=5432
 - docker-compose exec web python manage.py collectstatic --no-input
 - docker-compose exec web python manage.py load_csv_data
 ```
+
+### В API доступны следующие эндпоинты:
+
+```
+http://IP/api/v1/ - Список всех эндпоинтов.
+http://IP/redoc/ - Документация.
+```
